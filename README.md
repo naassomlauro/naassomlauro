@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @naassomlauro
+- 👀 I’m interested in C#, Angular and React programming
+- 🌱 I’m currently learning Angular
+- 📫 To reach me, send an e-mail for naassom.lauro@gmail.com
